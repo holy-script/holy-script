@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: '/holy-script',
-    assetPrefix: '/holy-script/',
+    basePath: `${process.env.BASE_PATH}`,
+    assetPrefix: `${process.env.BASE_PATH}/`,
     output: 'export',
     reactStrictMode: true,
 };
