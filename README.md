@@ -46,16 +46,11 @@ Full-stack developer building autonomous AI agents and responsive web platforms.
   <sub><em>Autonomous Git Koi &bull; Color maps to languages (TypeScript & Python), scale reflects contribution volume, and swim pace mirrors yesterday's commit velocity.</em></sub>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api?username=holy-script&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" width="100%" alt="Palash's GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=holy-script&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=holy-script&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&card_width=410" alt="Palash's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=holy-script&layout=compact&theme=tokyonight&hide_border=true&card_width=410" alt="Top Languages" />
+</p>
 
 ---
 
