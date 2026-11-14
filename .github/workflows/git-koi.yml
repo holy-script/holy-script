@@ -1,0 +1,38 @@
+name: Generate Git Koi
+
+on:
+  schedule:
+    # Runs nightly at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render-koi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Render Git Koi
+        uses: yalongwastaken/git-koi@v1
+        with:
+          login: ${{ github.repository_owner }}
+          body: 'gold' # Options: white, black, asagi, tea, gold, platinum
+          output-dir: 'koi'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Updated Koi
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add koi/koi.gif
+          if git diff --cached --quiet; then
+            echo "No changes in Koi animation."
+          else
+            git commit -m "chore(telemetry): update autonomous Git-Koi render [skip ci]"
+            git push
+          fi
