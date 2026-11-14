@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="koi/koi.gif" width="280" alt="Autonomous Git Koi" onerror="this.style.display='none'" />
-</p>
-<p align="center">
-  <sub><em>🌊 The koi swims based on yesterday's commit activity, updated nightly via GitHub Actions.</em></sub>
-</p>
-
 # Hey, I'm Palash 👋
 
 I'm a full-stack developer building autonomous AI agents and responsive web platforms. Right now, I'm mostly focused on multi-agent orchestration, local LLMs, and building systems that actually ship to production.
@@ -41,13 +34,28 @@ A couple of things I've been hacking on recently (more pinned below):
 
 ---
 
-### 📊 Stats
+### 📈 Activity & Telemetry
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=holy-script&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Palash's GitHub Stats" height="150" />
-  &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=holy-script&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
+<table>
+  <tr>
+    <td width="32%" align="center" valign="middle">
+      <img src="koi/koi.gif" width="160" alt="Autonomous Git Koi" />
+      <br/>
+      <strong>Autonomous Git Koi</strong>
+      <br/><br/>
+      <div align="left">
+        <sub>🎨 <strong>Color:</strong> Primary languages</sub><br/>
+        <sub>📏 <strong>Size:</strong> Contribution volume</sub><br/>
+        <sub>⚡ <strong>Swim:</strong> Yesterday's commit pace</sub>
+      </div>
+    </td>
+    <td width="68%" valign="middle" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=holy-script&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Palash's GitHub Stats" height="145" />
+      <br/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=holy-script&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="135" />
+    </td>
+  </tr>
+</table>
 
 ---
 
