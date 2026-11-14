@@ -40,20 +40,11 @@ Full-stack developer building autonomous AI agents and responsive web platforms.
 
 ### Activity & Telemetry
 
-<table>
-  <tr>
-    <td width="26%" align="center" valign="middle">
-      <img src="koi/koi.gif" width="130" alt="Autonomous Git Koi" />
-      <br/>
-      <strong>Autonomous Git Koi</strong>
-    </td>
-    <td width="74%" valign="middle">
-      <strong>Commit-Driven Telemetry</strong><br/>
-      A nightly generative simulation running via GitHub Actions. Color palette maps to language distribution, body scale reflects contribution volume, and swim velocity mirrors the preceding day's commit pace.<br/><br/>
-      <code>Languages: TypeScript & Python</code> &bull; <code>Engine: Headless Compositor</code>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="koi/koi.gif" width="100%" alt="Autonomous Git Koi" />
+  <br/>
+  <sub><em>Autonomous Git Koi &bull; Color maps to languages (TypeScript & Python), scale reflects contribution volume, and swim pace mirrors yesterday's commit velocity.</em></sub>
+</p>
 
 <table>
   <tr>
