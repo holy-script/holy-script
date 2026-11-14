@@ -42,8 +42,6 @@ Full-stack developer building autonomous AI agents and responsive web platforms.
 
 <p align="center">
   <img src="koi/koi.gif" width="100%" alt="Autonomous Git Koi" />
-  <br/>
-  <sub><em>Autonomous Git Koi &bull; Color maps to languages (TypeScript & Python), scale reflects contribution volume, and swim pace mirrors yesterday's commit velocity.</em></sub>
 </p>
 
 <p align="center">
