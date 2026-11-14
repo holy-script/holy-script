@@ -1,6 +1,6 @@
-# Hey, I'm Palash 👋
+# Palash Johri
 
-I'm a full-stack developer building autonomous AI agents and responsive web platforms. Right now, I'm mostly focused on multi-agent orchestration, local LLMs, and building systems that actually ship to production.
+Full-stack developer building autonomous AI agents and responsive web platforms. Focused on multi-agent orchestration, local LLMs, and systems that ship to production.
 
 <p align="left">
   <a href="https://linkedin.com/in/palash-johri-3301" target="_blank">
@@ -16,51 +16,60 @@ I'm a full-stack developer building autonomous AI agents and responsive web plat
 
 ---
 
-### 🔨 What I'm Building
+### What I'm Building
 
-A couple of things I've been hacking on recently (more pinned below):
+- **[The Fabric](https://github.com/holy-script/fabric)** — Personal operating system connecting wearable bio-telemetry, background daemons, and an interactive knowledge graph. [Live Cockpit](https://fabric-one-sage.vercel.app)
+- **[QAgent](https://github.com/holy-script/QAgent)** — Autonomous QA testing agent that explores web apps, detects regressions, and writes reports using LangGraph and Playwright.
 
-- **[The Fabric](https://github.com/holy-script/fabric)** — A personal operating system that connects wearable bio-telemetry, background daemons, and an interactive knowledge graph. *(Check out the [live cockpit](https://fabric-one-sage.vercel.app))*
-- **[QAgent](https://github.com/holy-script/QAgent)** — An autonomous QA agent that navigates web apps, hunts bugs, and generates test reports using LangGraph and Playwright.
+*(More projects pinned below)*
 
 ---
 
-### 🧰 Tools & Tech
+### Stack & Tools
 
 - **AI & Agents:** LangChain, LangGraph, Ollama, Claude & OpenAI APIs, AWS Bedrock
 - **Frontend & Full-Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js
 - **Backend & Data:** Python (FastAPI), PostgreSQL, Redis, Supabase, SQLite
 - **DevOps & Tooling:** Docker, Linux, GitHub Actions, Playwright, Git
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python,fastapi,postgres,docker,redis,git" alt="Core Technologies" />
+</p>
+
 ---
 
-### 📈 Activity & Telemetry
+### Activity & Telemetry
 
 <table>
   <tr>
-    <td width="32%" align="center" valign="middle">
-      <img src="koi/koi.gif" width="160" alt="Autonomous Git Koi" />
+    <td width="26%" align="center" valign="middle">
+      <img src="koi/koi.gif" width="130" alt="Autonomous Git Koi" />
       <br/>
       <strong>Autonomous Git Koi</strong>
-      <br/><br/>
-      <div align="left">
-        <sub>🎨 <strong>Color:</strong> Primary languages</sub><br/>
-        <sub>📏 <strong>Size:</strong> Contribution volume</sub><br/>
-        <sub>⚡ <strong>Swim:</strong> Yesterday's commit pace</sub>
-      </div>
     </td>
-    <td width="68%" valign="middle" align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=holy-script&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Palash's GitHub Stats" height="145" />
-      <br/>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=holy-script&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="135" />
+    <td width="74%" valign="middle">
+      <strong>Commit-Driven Telemetry</strong><br/>
+      A nightly generative simulation running via GitHub Actions. Color palette maps to language distribution, body scale reflects contribution volume, and swim velocity mirrors the preceding day's commit pace.<br/><br/>
+      <code>Languages: TypeScript & Python</code> &bull; <code>Engine: Headless Compositor</code>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api?username=holy-script&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" width="100%" alt="Palash's GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=holy-script&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚡ Fun Fact
+### Aside
 
-I'm a performing ventriloquist 🗣️ (yes, really). It's great for live stage shows, speaking at events, and throwing voices on Zoom calls.
+I am also a performing ventriloquist (yes, really). It comes in handy for live demos, public speaking, and keeping video calls interesting.
 
-Always down to talk agents, LLMs, or collaborate on cool projects — feel free to drop me an email at [palashjohricool@gmail.com](mailto:palashjohricool@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/palash-johri-3301)!
+Always open to discussing agent architectures, local LLMs, or collaborating on interesting engineering problems: [palashjohricool@gmail.com](mailto:palashjohricool@gmail.com) / [LinkedIn](https://linkedin.com/in/palash-johri-3301).
