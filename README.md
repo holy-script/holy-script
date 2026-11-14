@@ -44,9 +44,9 @@ A couple of things I've been hacking on recently (more pinned below):
 ### 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=holy-script&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Palash's GitHub Stats" height="140" />
+  <img src="https://github-stats-extended.vercel.app/api?username=holy-script&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Palash's GitHub Stats" height="150" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holy-script&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="140" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=holy-script&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
